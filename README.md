@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AAGupta21
-- 👀 I’m interested in ... Programming (big suprise), but anything in coding sparks my interest.
+- 👀 I’m interested in ... Programming (big suprise), but anything in coding that sparks my interest.
 - 🌱 I’m currently learning ... Javascript.
 - 💞️ I’m looking to collaborate on ... Anything.
 - 📫 How to reach me ... https://www.linkedin.com/in/aakash-gupta-944131139
